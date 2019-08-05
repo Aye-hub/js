@@ -1,4 +1,4 @@
-<img src="https://image.lvzhenye.club/github/doc/linuxDoc.png">
+<img src="/media/jsdoc.png">
 
 ### IF AT FIRST YOU DON’T SUCCEED, CALL IT VERSION 1.0
 
