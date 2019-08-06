@@ -17,7 +17,7 @@
   </a>
 </p>
 
-!> :stuck_out_tongue_winking_eye:由于作者才疏学浅，文中有错误的地方还望指正。:smirk:
+!> :stuck_out_tongue_winking_eye:由于作者才疏学浅，文中有错误的地方还望指正。😊
 
 ## 💡目的
 本站旨在帮助爱好:heart:HTML，CSS，Js:heart:的朋友们，更快更准确地查阅`Linux`基础命令。
