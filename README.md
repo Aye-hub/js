@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Js DOC 👋</h1>
 <p align="center">
-  <a href="https://js.1mi.top">
+  <a href="https://js.xingeek.com">
     <img alt="linuxDoc" src="/media/logo.jpg">
   </a>
 </p>
